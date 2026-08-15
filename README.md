@@ -395,6 +395,18 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Quick mockups, diagrams, visual brainstorming
 **Stars:** ⭐⭐⭐
 
+#### harmonic-mixing
+**Source:** [songfinder-dev/songfinder-skills](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/harmonic-mixing) | **Verified:** ⏳
+**Description:** Get a track's BPM, musical key and Camelot code, then build beatmatched or harmonically compatible playlists.
+**Use Case:** DJ set planning, playlist sequencing, working out why two tracks clash
+**Stars:** ⭐⭐⭐
+
+#### identify-song
+**Source:** [songfinder-dev/songfinder-skills](https://github.com/songfinder-dev/songfinder-skills/tree/main/skills/identify-song) | **Verified:** ⏳
+**Description:** Identify what song is playing in a link or an audio file, then look up its ISRC, album, label and streaming links.
+**Use Case:** Naming an unknown track in a video, tagging a music library, finding a song you can only describe by where you heard it
+**Stars:** ⭐⭐⭐
+
 #### slack-gif-creator
 **Source:** Community | **Verified:** ⏳
 **Description:** Generate custom GIFs for Slack communication and team engagement.
